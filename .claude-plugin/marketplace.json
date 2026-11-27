@@ -1,0 +1,16 @@
+{
+  "name": "sci-calc",
+  "owner": {
+    "name": "StWron",
+    "url": "https://github.com/StWron"
+  },
+  "plugins": [
+    {
+      "name": "sci-calc",
+      "source": "./",
+      "description": "열역학·유체·연소·단위 계산을 실제 물성 라이브러리로 수행하는 스킬",
+      "homepage": "https://github.com/StWron/sci-calc",
+      "repository": "https://github.com/StWron/sci-calc"
+    }
+  ]
+}
